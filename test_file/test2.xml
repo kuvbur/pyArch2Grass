@@ -1,0 +1,2477 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<BuildingInformation>
+	<Classification>
+		<System>
+			<Name>Классификация ARCHICAD</Name>
+			<EditionVersion>20</EditionVersion>
+			<EditionDate>
+				<Year>2017</Year>
+				<Month>6</Month>
+				<Day>1</Day>
+			</EditionDate>
+			<Description/>
+			<Source>www.graphisoft.com</Source>
+			<Items>
+				<Item>
+					<ID>Анкер Преднапряженной Арматуры</ID>
+					<Name/>
+					<Description/>
+					<Availability>ModelElement</Availability>
+					<Children/>
+				</Item>
+				<Item>
+					<ID>Арматурная Сетка</ID>
+					<Name/>
+					<Description/>
+					<Availability>ModelElement</Availability>
+					<Children/>
+				</Item>
+				<Item>
+					<ID>Арматурный Стержень</ID>
+					<Name/>
+					<Description/>
+					<Availability>ModelElement</Availability>
+					<Children/>
+				</Item>
+				<Item>
+					<ID>Балка</ID>
+					<Name/>
+					<Description/>
+					<Availability>ModelElement</Availability>
+					<Children/>
+				</Item>
+				<Item>
+					<ID>Геометрия Местности</ID>
+					<Name/>
+					<Description/>
+					<Availability>ModelElement</Availability>
+					<Children/>
+				</Item>
+				<Item>
+					<ID>Дверь</ID>
+					<Name/>
+					<Description/>
+					<Availability>ModelElement</Availability>
+					<Children/>
+				</Item>
+				<Item>
+					<ID>Дискретный Аксессуар</ID>
+					<Name/>
+					<Description/>
+					<Availability>ModelElement</Availability>
+					<Children/>
+				</Item>
+				<Item>
+					<ID>Зажим</ID>
+					<Name/>
+					<Description/>
+					<Availability>ModelElement</Availability>
+					<Children/>
+				</Item>
+				<Item>
+					<ID>Источник Света</ID>
+					<Name/>
+					<Description/>
+					<Availability>ModelElement</Availability>
+					<Children/>
+				</Item>
+				<Item>
+					<ID>Колонна</ID>
+					<Name/>
+					<Description/>
+					<Availability>ModelElement</Availability>
+					<Children/>
+				</Item>
+				<Item>
+					<ID>Контроллер Потока</ID>
+					<Name/>
+					<Description/>
+					<Availability>ModelElement</Availability>
+					<Children/>
+				</Item>
+				<Item>
+					<ID>Крыша</ID>
+					<Name/>
+					<Description/>
+					<Availability>ModelElement</Availability>
+					<Children/>
+				</Item>
+				<Item>
+					<ID>Лестница</ID>
+					<Name/>
+					<Description/>
+					<Availability>ModelElement</Availability>
+					<Children/>
+				</Item>
+				<Item>
+					<ID>Лестничный Марш</ID>
+					<Name/>
+					<Description/>
+					<Availability>ModelElement</Availability>
+					<Children/>
+				</Item>
+				<Item>
+					<ID>Марш Пандуса</ID>
+					<Name/>
+					<Description/>
+					<Availability>ModelElement</Availability>
+					<Children/>
+				</Item>
+				<Item>
+					<ID>Мебель</ID>
+					<Name/>
+					<Description/>
+					<Availability>ModelElement</Availability>
+					<Children/>
+				</Item>
+				<Item>
+					<ID>Механический Зажим</ID>
+					<Name/>
+					<Description/>
+					<Availability>ModelElement</Availability>
+					<Children/>
+				</Item>
+				<Item>
+					<ID>Навесная Стена</ID>
+					<Name/>
+					<Description/>
+					<Availability>ModelElement</Availability>
+					<Children/>
+				</Item>
+				<Item>
+					<ID>Ограждение</ID>
+					<Name/>
+					<Description/>
+					<Availability>ModelElement</Availability>
+					<Children/>
+				</Item>
+				<Item>
+					<ID>Окно</ID>
+					<Name/>
+					<Description/>
+					<Availability>ModelElement</Availability>
+					<Children/>
+				</Item>
+				<Item>
+					<ID>Осветительная Арматура</ID>
+					<Name/>
+					<Description/>
+					<Availability>ModelElement</Availability>
+					<Children/>
+				</Item>
+				<Item>
+					<ID>Пандус</ID>
+					<Name/>
+					<Description/>
+					<Availability>ModelElement</Availability>
+					<Children/>
+				</Item>
+				<Item>
+					<ID>Панель</ID>
+					<Name/>
+					<Description/>
+					<Availability>ModelElement</Availability>
+					<Children/>
+				</Item>
+				<Item>
+					<ID>Перекрытие</ID>
+					<Name/>
+					<Description/>
+					<Availability>ModelElement</Availability>
+					<Children/>
+				</Item>
+				<Item>
+					<ID>Покрытие</ID>
+					<Name/>
+					<Description/>
+					<Availability>ModelElement</Availability>
+					<Children/>
+				</Item>
+				<Item>
+					<ID>Потолок</ID>
+					<Name/>
+					<Description/>
+					<Availability>ModelElement</Availability>
+					<Children/>
+				</Item>
+				<Item>
+					<ID>Предварительно Напряжённая Арматура</ID>
+					<Name/>
+					<Description/>
+					<Availability>ModelElement</Availability>
+					<Children/>
+				</Item>
+				<Item>
+					<ID>Прокси Элемента Здания</ID>
+					<Name/>
+					<Description/>
+					<Availability>ModelElement</Availability>
+					<Children/>
+				</Item>
+				<Item>
+					<ID>Пространство</ID>
+					<Name/>
+					<Description/>
+					<Availability>Zone</Availability>
+					<Children/>
+				</Item>
+				<Item>
+					<ID>Распределительный Элемент</ID>
+					<Name/>
+					<Description/>
+					<Availability>ModelElement</Availability>
+					<Children/>
+				</Item>
+				<Item>
+					<ID>Распределительный Элемент Камеры</ID>
+					<Name/>
+					<Description/>
+					<Availability>ModelElement</Availability>
+					<Children/>
+				</Item>
+				<Item>
+					<ID>Распределительный Элемент Потока</ID>
+					<Name/>
+					<Description/>
+					<Availability>ModelElement</Availability>
+					<Children/>
+				</Item>
+				<Item>
+					<ID>Свая</ID>
+					<Name/>
+					<Description/>
+					<Availability>ModelElement</Availability>
+					<Children/>
+				</Item>
+				<Item>
+					<ID>Сегмент Воздуховода</ID>
+					<Name/>
+					<Description/>
+					<Availability>ModelElement</Availability>
+					<Children/>
+				</Item>
+				<Item>
+					<ID>Сегмент Кабельного Лотка</ID>
+					<Name/>
+					<Description/>
+					<Availability>ModelElement</Availability>
+					<Children/>
+				</Item>
+				<Item>
+					<ID>Сегмент Потока</ID>
+					<Name/>
+					<Description/>
+					<Availability>ModelElement</Availability>
+					<Children/>
+				</Item>
+				<Item>
+					<ID>Сегмент Трубы</ID>
+					<Name/>
+					<Description/>
+					<Availability>ModelElement</Availability>
+					<Children/>
+				</Item>
+				<Item>
+					<ID>Стена</ID>
+					<Name/>
+					<Description/>
+					<Availability>ModelElement</Availability>
+					<Children/>
+				</Item>
+				<Item>
+					<ID>Терминал Воздуховода</ID>
+					<Name/>
+					<Description/>
+					<Availability>ModelElement</Availability>
+					<Children/>
+				</Item>
+				<Item>
+					<ID>Терминал Потока</ID>
+					<Name/>
+					<Description/>
+					<Availability>ModelElement</Availability>
+					<Children/>
+				</Item>
+				<Item>
+					<ID>Терминал Потока Трубы</ID>
+					<Name/>
+					<Description/>
+					<Availability>ModelElement</Availability>
+					<Children/>
+				</Item>
+				<Item>
+					<ID>Транспортный Элемент</ID>
+					<Name/>
+					<Description/>
+					<Availability>ModelElement</Availability>
+					<Children/>
+				</Item>
+				<Item>
+					<ID>Устройство Очистки Потока</ID>
+					<Name/>
+					<Description/>
+					<Availability>ModelElement</Availability>
+					<Children/>
+				</Item>
+				<Item>
+					<ID>Устройство Перемещения Потока</ID>
+					<Name/>
+					<Description/>
+					<Availability>ModelElement</Availability>
+					<Children/>
+				</Item>
+				<Item>
+					<ID>Устройство Преобразования Энергии</ID>
+					<Name/>
+					<Description/>
+					<Availability>ModelElement</Availability>
+					<Children/>
+				</Item>
+				<Item>
+					<ID>Устройство Хранения Потока</ID>
+					<Name/>
+					<Description/>
+					<Availability>ModelElement</Availability>
+					<Children/>
+				</Item>
+				<Item>
+					<ID>Фитинг Воздуховода</ID>
+					<Name/>
+					<Description/>
+					<Availability>ModelElement</Availability>
+					<Children/>
+				</Item>
+				<Item>
+					<ID>Фитинг Кабельного Лотка</ID>
+					<Name/>
+					<Description/>
+					<Availability>ModelElement</Availability>
+					<Children/>
+				</Item>
+				<Item>
+					<ID>Фитинг Потока</ID>
+					<Name/>
+					<Description/>
+					<Availability>ModelElement</Availability>
+					<Children/>
+				</Item>
+				<Item>
+					<ID>Фитинг Трубы</ID>
+					<Name/>
+					<Description/>
+					<Availability>ModelElement</Availability>
+					<Children/>
+				</Item>
+				<Item>
+					<ID>Фундамент</ID>
+					<Name/>
+					<Description/>
+					<Availability>ModelElement</Availability>
+					<Children/>
+				</Item>
+				<Item>
+					<ID>Элемент</ID>
+					<Name/>
+					<Description/>
+					<Availability>ModelElement</Availability>
+					<Children/>
+				</Item>
+				<Item>
+					<ID>Элемент Распределенного Управления</ID>
+					<Name/>
+					<Description/>
+					<Availability>ModelElement</Availability>
+					<Children/>
+				</Item>
+			</Items>
+		</System>
+	</Classification>
+	<PropertyDefinitionGroups>
+		<PropertyDefinitionGroup>
+			<Name>Отображение в спецификациях</Name>
+			<PropertyDefinitions>
+				<PropertyDefinition>
+					<Name>Спецификация фундаментов</Name>
+					<Description/>
+					<ValueDescriptor Type="EnumerationValueDescriptor" Version="2">
+						<EnumerationValueDescriptorWithStoredValues>
+							<ValueType>3</ValueType>
+							<Values>
+								<Key>113B9817-4953-4164-9083-6719214399E3</Key>
+								<Value Empty="false">
+									<Variant Type="StringVariant">
+										<Status>Normal</Status>
+										<Value>Отображать</Value>
+									</Variant>
+								</Value>
+								<Key>44621755-3E34-4591-95F2-95D40F579FBC</Key>
+								<Value Empty="false">
+									<Variant Type="StringVariant">
+										<Status>Normal</Status>
+										<Value>Не отображать</Value>
+									</Variant>
+								</Value>
+							</Values>
+						</EnumerationValueDescriptorWithStoredValues>
+						<HasMultiValue>false</HasMultiValue>
+					</ValueDescriptor>
+					<MeasureType>Default</MeasureType>
+					<DefaultValue>
+						<DefaultValueType>Basic</DefaultValueType>
+						<Variant Type="GuidVariant">
+							<Status>Normal</Status>
+							<Value>113B9817-4953-4164-9083-6719214399E3</Value>
+						</Variant>
+					</DefaultValue>
+					<ClassificationIDs>
+						<ClassificationID>
+							<ItemID>Стена</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Балка</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Колонна</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Перекрытие</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Крыша</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Дверь</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Окно</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Лестница</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Пандус</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Ограждение</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Навесная Стена</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Покрытие</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Потолок</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Транспортный Элемент</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Мебель</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Фундамент</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Элемент</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Панель</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Прокси Элемента Здания</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Терминал Воздуховода</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Сегмент Воздуховода</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Фитинг Воздуховода</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Терминал Потока Трубы</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Сегмент Трубы</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Фитинг Трубы</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Сегмент Кабельного Лотка</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Фитинг Кабельного Лотка</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Устройство Очистки Потока</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Контроллер Потока</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Устройство Перемещения Потока</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Устройство Хранения Потока</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Свая</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Арматурный Стержень</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Арматурная Сетка</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Предварительно Напряжённая Арматура</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Анкер Преднапряженной Арматуры</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Марш Пандуса</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Лестничный Марш</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Элемент Распределенного Управления</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Устройство Преобразования Энергии</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Дискретный Аксессуар</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Механический Зажим</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Распределительный Элемент</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Распределительный Элемент Камеры</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Распределительный Элемент Потока</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Зажим</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Фитинг Потока</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Сегмент Потока</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Терминал Потока</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Осветительная Арматура</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Источник Света</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Геометрия Местности</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Пространство</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+					</ClassificationIDs>
+				</PropertyDefinition>
+				<PropertyDefinition>
+					<Name>Спецификация -1,900</Name>
+					<Description/>
+					<ValueDescriptor Type="EnumerationValueDescriptor" Version="2">
+						<EnumerationValueDescriptorWithStoredValues>
+							<ValueType>3</ValueType>
+							<Values>
+								<Key>113B9817-4953-4164-9083-6719214399E3</Key>
+								<Value Empty="false">
+									<Variant Type="StringVariant">
+										<Status>Normal</Status>
+										<Value>Отображать</Value>
+									</Variant>
+								</Value>
+								<Key>44621755-3E34-4591-95F2-95D40F579FBC</Key>
+								<Value Empty="false">
+									<Variant Type="StringVariant">
+										<Status>Normal</Status>
+										<Value>Не отображать</Value>
+									</Variant>
+								</Value>
+							</Values>
+						</EnumerationValueDescriptorWithStoredValues>
+						<HasMultiValue>false</HasMultiValue>
+					</ValueDescriptor>
+					<MeasureType>Default</MeasureType>
+					<DefaultValue>
+						<DefaultValueType>Basic</DefaultValueType>
+						<Variant Type="GuidVariant">
+							<Status>Normal</Status>
+							<Value>113B9817-4953-4164-9083-6719214399E3</Value>
+						</Variant>
+					</DefaultValue>
+					<ClassificationIDs>
+						<ClassificationID>
+							<ItemID>Стена</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Балка</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Колонна</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Перекрытие</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Крыша</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Дверь</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Окно</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Лестница</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Пандус</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Ограждение</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Навесная Стена</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Покрытие</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Потолок</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Транспортный Элемент</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Мебель</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Фундамент</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Элемент</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Панель</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Прокси Элемента Здания</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Терминал Воздуховода</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Сегмент Воздуховода</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Фитинг Воздуховода</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Терминал Потока Трубы</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Сегмент Трубы</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Фитинг Трубы</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Сегмент Кабельного Лотка</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Фитинг Кабельного Лотка</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Устройство Очистки Потока</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Контроллер Потока</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Устройство Перемещения Потока</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Устройство Хранения Потока</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Свая</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Арматурный Стержень</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Арматурная Сетка</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Предварительно Напряжённая Арматура</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Анкер Преднапряженной Арматуры</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Марш Пандуса</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Лестничный Марш</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Элемент Распределенного Управления</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Устройство Преобразования Энергии</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Дискретный Аксессуар</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Механический Зажим</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Распределительный Элемент</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Распределительный Элемент Камеры</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Распределительный Элемент Потока</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Зажим</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Фитинг Потока</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Сегмент Потока</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Терминал Потока</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Осветительная Арматура</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Источник Света</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Геометрия Местности</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Пространство</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+					</ClassificationIDs>
+				</PropertyDefinition>
+				<PropertyDefinition>
+					<Name>Спецификация -0,100</Name>
+					<Description/>
+					<ValueDescriptor Type="EnumerationValueDescriptor" Version="2">
+						<EnumerationValueDescriptorWithStoredValues>
+							<ValueType>3</ValueType>
+							<Values>
+								<Key>113B9817-4953-4164-9083-6719214399E3</Key>
+								<Value Empty="false">
+									<Variant Type="StringVariant">
+										<Status>Normal</Status>
+										<Value>Отображать</Value>
+									</Variant>
+								</Value>
+								<Key>44621755-3E34-4591-95F2-95D40F579FBC</Key>
+								<Value Empty="false">
+									<Variant Type="StringVariant">
+										<Status>Normal</Status>
+										<Value>Не отображать</Value>
+									</Variant>
+								</Value>
+							</Values>
+						</EnumerationValueDescriptorWithStoredValues>
+						<HasMultiValue>false</HasMultiValue>
+					</ValueDescriptor>
+					<MeasureType>Default</MeasureType>
+					<DefaultValue>
+						<DefaultValueType>Basic</DefaultValueType>
+						<Variant Type="GuidVariant">
+							<Status>Normal</Status>
+							<Value>113B9817-4953-4164-9083-6719214399E3</Value>
+						</Variant>
+					</DefaultValue>
+					<ClassificationIDs>
+						<ClassificationID>
+							<ItemID>Стена</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Балка</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Колонна</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Перекрытие</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Крыша</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Дверь</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Окно</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Лестница</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Пандус</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Ограждение</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Навесная Стена</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Покрытие</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Потолок</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Транспортный Элемент</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Мебель</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Фундамент</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Элемент</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Панель</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Прокси Элемента Здания</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Терминал Воздуховода</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Сегмент Воздуховода</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Фитинг Воздуховода</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Терминал Потока Трубы</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Сегмент Трубы</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Фитинг Трубы</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Сегмент Кабельного Лотка</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Фитинг Кабельного Лотка</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Устройство Очистки Потока</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Контроллер Потока</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Устройство Перемещения Потока</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Устройство Хранения Потока</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Свая</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Арматурный Стержень</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Арматурная Сетка</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Предварительно Напряжённая Арматура</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Анкер Преднапряженной Арматуры</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Марш Пандуса</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Лестничный Марш</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Элемент Распределенного Управления</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Устройство Преобразования Энергии</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Дискретный Аксессуар</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Механический Зажим</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Распределительный Элемент</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Распределительный Элемент Камеры</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Распределительный Элемент Потока</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Зажим</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Фитинг Потока</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Сегмент Потока</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Терминал Потока</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Осветительная Арматура</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Источник Света</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Геометрия Местности</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Пространство</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+					</ClassificationIDs>
+				</PropertyDefinition>
+				<PropertyDefinition>
+					<Name>Спецификация +8,600</Name>
+					<Description/>
+					<ValueDescriptor Type="EnumerationValueDescriptor" Version="2">
+						<EnumerationValueDescriptorWithStoredValues>
+							<ValueType>3</ValueType>
+							<Values>
+								<Key>113B9817-4953-4164-9083-6719214399E3</Key>
+								<Value Empty="false">
+									<Variant Type="StringVariant">
+										<Status>Normal</Status>
+										<Value>Отображать</Value>
+									</Variant>
+								</Value>
+								<Key>44621755-3E34-4591-95F2-95D40F579FBC</Key>
+								<Value Empty="false">
+									<Variant Type="StringVariant">
+										<Status>Normal</Status>
+										<Value>Не отображать</Value>
+									</Variant>
+								</Value>
+							</Values>
+						</EnumerationValueDescriptorWithStoredValues>
+						<HasMultiValue>false</HasMultiValue>
+					</ValueDescriptor>
+					<MeasureType>Default</MeasureType>
+					<DefaultValue>
+						<DefaultValueType>Basic</DefaultValueType>
+						<Variant Type="GuidVariant">
+							<Status>Normal</Status>
+							<Value>113B9817-4953-4164-9083-6719214399E3</Value>
+						</Variant>
+					</DefaultValue>
+					<ClassificationIDs>
+						<ClassificationID>
+							<ItemID>Стена</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Балка</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Колонна</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Перекрытие</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Крыша</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Дверь</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Окно</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Лестница</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Пандус</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Ограждение</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Навесная Стена</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Покрытие</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Потолок</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Транспортный Элемент</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Мебель</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Фундамент</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Элемент</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Панель</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Прокси Элемента Здания</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Терминал Воздуховода</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Сегмент Воздуховода</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Фитинг Воздуховода</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Терминал Потока Трубы</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Сегмент Трубы</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Фитинг Трубы</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Сегмент Кабельного Лотка</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Фитинг Кабельного Лотка</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Устройство Очистки Потока</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Контроллер Потока</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Устройство Перемещения Потока</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Устройство Хранения Потока</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Свая</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Арматурный Стержень</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Арматурная Сетка</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Предварительно Напряжённая Арматура</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Анкер Преднапряженной Арматуры</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Марш Пандуса</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Лестничный Марш</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Элемент Распределенного Управления</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Устройство Преобразования Энергии</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Дискретный Аксессуар</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Механический Зажим</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Распределительный Элемент</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Распределительный Элемент Камеры</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Распределительный Элемент Потока</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Зажим</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Фитинг Потока</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Сегмент Потока</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Терминал Потока</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Осветительная Арматура</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Источник Света</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Геометрия Местности</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Пространство</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+					</ClassificationIDs>
+				</PropertyDefinition>
+				<PropertyDefinition>
+					<Name>Спецификация +12,500</Name>
+					<Description/>
+					<ValueDescriptor Type="EnumerationValueDescriptor" Version="2">
+						<EnumerationValueDescriptorWithStoredValues>
+							<ValueType>3</ValueType>
+							<Values>
+								<Key>113B9817-4953-4164-9083-6719214399E3</Key>
+								<Value Empty="false">
+									<Variant Type="StringVariant">
+										<Status>Normal</Status>
+										<Value>Отображать</Value>
+									</Variant>
+								</Value>
+								<Key>44621755-3E34-4591-95F2-95D40F579FBC</Key>
+								<Value Empty="false">
+									<Variant Type="StringVariant">
+										<Status>Normal</Status>
+										<Value>Не отображать</Value>
+									</Variant>
+								</Value>
+							</Values>
+						</EnumerationValueDescriptorWithStoredValues>
+						<HasMultiValue>false</HasMultiValue>
+					</ValueDescriptor>
+					<MeasureType>Default</MeasureType>
+					<DefaultValue>
+						<DefaultValueType>Basic</DefaultValueType>
+						<Variant Type="GuidVariant">
+							<Status>Normal</Status>
+							<Value>113B9817-4953-4164-9083-6719214399E3</Value>
+						</Variant>
+					</DefaultValue>
+					<ClassificationIDs>
+						<ClassificationID>
+							<ItemID>Стена</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Балка</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Колонна</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Перекрытие</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Крыша</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Дверь</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Окно</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Лестница</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Пандус</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Ограждение</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Навесная Стена</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Покрытие</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Потолок</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Транспортный Элемент</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Мебель</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Фундамент</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Элемент</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Панель</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Прокси Элемента Здания</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Терминал Воздуховода</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Сегмент Воздуховода</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Фитинг Воздуховода</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Терминал Потока Трубы</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Сегмент Трубы</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Фитинг Трубы</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Сегмент Кабельного Лотка</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Фитинг Кабельного Лотка</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Устройство Очистки Потока</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Контроллер Потока</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Устройство Перемещения Потока</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Устройство Хранения Потока</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Свая</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Арматурный Стержень</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Арматурная Сетка</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Предварительно Напряжённая Арматура</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Анкер Преднапряженной Арматуры</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Марш Пандуса</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Лестничный Марш</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Элемент Распределенного Управления</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Устройство Преобразования Энергии</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Дискретный Аксессуар</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Механический Зажим</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Распределительный Элемент</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Распределительный Элемент Камеры</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Распределительный Элемент Потока</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Зажим</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Фитинг Потока</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Сегмент Потока</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Терминал Потока</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Осветительная Арматура</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Источник Света</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Геометрия Местности</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Пространство</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+					</ClassificationIDs>
+				</PropertyDefinition>
+			</PropertyDefinitions>
+		</PropertyDefinitionGroup>
+		<PropertyDefinitionGroup>
+			<Name>Армирование</Name>
+			<PropertyDefinitions>
+				<PropertyDefinition>
+					<Name>Тип армирования</Name>
+					<Description/>
+					<ValueDescriptor Type="SingleValueDescriptor">
+						<ValueType>String</ValueType>
+					</ValueDescriptor>
+					<MeasureType>Default</MeasureType>
+					<DefaultValue>
+						<DefaultValueType>Expression</DefaultValueType>
+						<ExpressionDefaultValue>
+							<Expression>{Property:140CAB27-7CCF-406F-B714-049FFB4B4D16}</Expression>
+						</ExpressionDefaultValue>
+					</DefaultValue>
+					<ClassificationIDs>
+						<ClassificationID>
+							<ItemID>Стена</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Балка</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Колонна</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Перекрытие</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Крыша</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Дверь</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Окно</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Лестница</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Пандус</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Ограждение</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Навесная Стена</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Покрытие</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Потолок</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Транспортный Элемент</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Мебель</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Фундамент</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Элемент</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Панель</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Прокси Элемента Здания</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Терминал Воздуховода</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Сегмент Воздуховода</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Фитинг Воздуховода</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Терминал Потока Трубы</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Сегмент Трубы</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Фитинг Трубы</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Сегмент Кабельного Лотка</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Фитинг Кабельного Лотка</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Устройство Очистки Потока</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Контроллер Потока</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Устройство Перемещения Потока</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Устройство Хранения Потока</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Свая</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Арматурный Стержень</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Арматурная Сетка</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Предварительно Напряжённая Арматура</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Анкер Преднапряженной Арматуры</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Марш Пандуса</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Лестничный Марш</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Элемент Распределенного Управления</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Устройство Преобразования Энергии</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Дискретный Аксессуар</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Механический Зажим</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Распределительный Элемент</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Распределительный Элемент Камеры</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Распределительный Элемент Потока</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Зажим</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Фитинг Потока</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Сегмент Потока</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Терминал Потока</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Осветительная Арматура</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Источник Света</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Геометрия Местности</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Пространство</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+					</ClassificationIDs>
+				</PropertyDefinition>
+			</PropertyDefinitions>
+		</PropertyDefinitionGroup>
+		<PropertyDefinitionGroup>
+			<Name>Расположение</Name>
+			<PropertyDefinitions>
+				<PropertyDefinition>
+					<Name>Номер секции</Name>
+					<Description/>
+					<ValueDescriptor Type="SingleValueDescriptor">
+						<ValueType>String</ValueType>
+					</ValueDescriptor>
+					<MeasureType>Default</MeasureType>
+					<DefaultValue>
+						<DefaultValueType>Expression</DefaultValueType>
+						<ExpressionDefaultValue>
+							<Expression>{Property:1607B29C-1286-4EDF-AF50-A5CD6E555492}</Expression>
+						</ExpressionDefaultValue>
+					</DefaultValue>
+					<ClassificationIDs>
+						<ClassificationID>
+							<ItemID>Стена</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Балка</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Колонна</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Перекрытие</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Крыша</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Дверь</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Окно</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Лестница</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Пандус</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Ограждение</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Навесная Стена</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Покрытие</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Потолок</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Транспортный Элемент</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Мебель</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Фундамент</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Элемент</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Панель</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Прокси Элемента Здания</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Терминал Воздуховода</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Сегмент Воздуховода</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Фитинг Воздуховода</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Терминал Потока Трубы</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Сегмент Трубы</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Фитинг Трубы</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Сегмент Кабельного Лотка</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Фитинг Кабельного Лотка</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Устройство Очистки Потока</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Контроллер Потока</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Устройство Перемещения Потока</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Устройство Хранения Потока</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Свая</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Арматурный Стержень</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Арматурная Сетка</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Предварительно Напряжённая Арматура</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Анкер Преднапряженной Арматуры</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Марш Пандуса</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Лестничный Марш</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Элемент Распределенного Управления</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Устройство Преобразования Энергии</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Дискретный Аксессуар</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Механический Зажим</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Распределительный Элемент</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Распределительный Элемент Камеры</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Распределительный Элемент Потока</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Зажим</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Фитинг Потока</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Сегмент Потока</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Терминал Потока</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Осветительная Арматура</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Источник Света</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Геометрия Местности</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Пространство</ItemID>
+							<SystemIDName>Классификация ARCHICAD</SystemIDName>
+							<SystemIDVersion>20</SystemIDVersion>
+						</ClassificationID>
+					</ClassificationIDs>
+				</PropertyDefinition>
+			</PropertyDefinitions>
+		</PropertyDefinitionGroup>
+		<PropertyDefinitionGroup>
+			<Name>ПБ</Name>
+			<PropertyDefinitions/>
+		</PropertyDefinitionGroup>
+	</PropertyDefinitionGroups>
+</BuildingInformation>

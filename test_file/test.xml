@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<BuildingInformation>
+	<PropertyDefinitionGroups>
+		<PropertyDefinitionGroup>
+			<Name>ПБ</Name>
+			<PropertyDefinitions>
+				<PropertyDefinition>
+					<Name>Ф_Предел огнестойкости</Name>
+					<Description>https://drive.google.com/file/d/1XdBhvWt9yoF_U3Do6BjcXe0BBtKomAxu/view?usp=sharing
+Автоназначение по т. 21 ФЗ-123</Description>
+					<ValueDescriptor Type="SingleValueDescriptor">
+						<ValueType>String</ValueType>
+					</ValueDescriptor>
+					<MeasureType>Default</MeasureType>
+					<DefaultValue>
+						<DefaultValueType>Expression</DefaultValueType>
+						<ExpressionDefaultValue>
+							<Expression>IFS ( {Property:Классификация/01.01 Стена}, IF ( {Property:ПБ/Делит ПБ Отсек} = TRUE, "150", IF ( {Property:ПБ/Предел огнестойкости} &lt;&gt; " ", {Property:ПБ/Предел огнестойкости}, IF ( {Property:ПБ/Степень огнестойкости здания} = "V", "", IF ( AND ( {Property:ПБ/ЛК_Конструкции} = TRUE, {Property:53402BE5-29D9-44A5-B6D6-4FA90938DDC9} = "Внутри" ), IF ( {Property:ПБ/Степень огнестойкости здания} = "I", "120", IF ( {Property:ПБ/Степень огнестойкости здания} = "II", "90", IF ( {Property:ПБ/Степень огнестойкости здания} = "III", "60", IF ( {Property:ПБ/Степень огнестойкости здания} = "IV", "45", {Property:ProjectInfoPropertyDefinitionGroup/00_!} ) ) ) ), IF ( {Property:9B2F38A8-198B-4125-9E73-5646F072C10E} = "Несущий Элемент", IF ( {Property:ПБ/Степень огнестойкости здания} = "I", "120", IF ( {Property:ПБ/Степень огнестойкости здания} = "II", "90", IF ( {Property:ПБ/Степень огнестойкости здания} = "III", "45", IF ( {Property:ПБ/Степень огнестойкости здания} = "IV", "15", {Property:ProjectInfoPropertyDefinitionGroup/00_!} ) ) ) ), IF ( {Property:53402BE5-29D9-44A5-B6D6-4FA90938DDC9} = "Внутри", "", IF ( {Property:ПБ/Степень огнестойкости здания} = "I", "30", IF ( OR ( {Property:ПБ/Степень огнестойкости здания} = "II", {Property:ПБ/Степень огнестойкости здания} = "III", {Property:ПБ/Степень огнестойкости здания} = "IV" ), "15", {Property:ProjectInfoPropertyDefinitionGroup/00_!} ) ) ) ) ) ) ) ) )</Expression>
+							<Expression>IFS ( {Property:Классификация/01.02 Перекрытие}, IF ( {Property:ПБ/Делит ПБ Отсек} = TRUE, "150", IF ( {Property:ПБ/Предел огнестойкости} &lt;&gt; " ", {Property:ПБ/Предел огнестойкости}, IF ( {Property:ПБ/Степень огнестойкости здания} = "V", "", IF ( {Property:9B2F38A8-198B-4125-9E73-5646F072C10E} &lt;&gt; "Несущий Элемент", "", IF ( {Property:ПБ/Степень огнестойкости здания} = "I", "60", IF ( {Property:ПБ/Степень огнестойкости здания} = "II", IF ( {Property:ПБ/ЛК_Конструкции} = TRUE, "60", "45" ), IF ( {Property:ПБ/Степень огнестойкости здания} = "III", "45", IF ( {Property:ПБ/Степень огнестойкости здания} = "IV", "15", "!Степень огнестойкости задана неверно!" ) ) ) ) ) ) ) ) )</Expression>
+							<Expression>IFS ( {Property:Классификация/01.03 Колонна}, IF ( {Property:ПБ/Предел огнестойкости} &lt;&gt; " ", {Property:ПБ/Предел огнестойкости}, IF ( {Property:ПБ/Степень огнестойкости здания} = "V", "", IF ( {Property:9B2F38A8-198B-4125-9E73-5646F072C10E} &lt;&gt; "Несущий Элемент", "", IF ( {Property:ПБ/Степень огнестойкости здания} = "I", "120", IF ( {Property:ПБ/Степень огнестойкости здания} = "II", "90", IF ( {Property:ПБ/Степень огнестойкости здания} = "III", "45", IF ( {Property:ПБ/Степень огнестойкости здания} = "IV", "15", "!Степень огнестойкости задана неверно!" ) ) ) ) ) ) ) )</Expression>
+							<Expression>IFS ( {Property:Классификация/01.05 Кровля}, IF ( {Property:ПБ/Предел огнестойкости} &lt;&gt; " ", {Property:ПБ/Предел огнестойкости}, IF ( {Property:ПБ/Степень огнестойкости здания} = "V", "Не нормируется", IF ( {Property:9B2F38A8-198B-4125-9E73-5646F072C10E} &lt;&gt; "Несущий Элемент", "Не нормируется", IF ( {Property:ПБ/Степень огнестойкости здания} = "I", "30", "15" ) ) ) ) )</Expression>
+							<Expression>IFS ( {Property:Классификация/01.04 Балка}, IF ( {Property:ПБ/Предел огнестойкости} &lt;&gt; " ", {Property:ПБ/Предел огнестойкости}, IF ( {Property:ПБ/Степень огнестойкости здания} = "V", "", IF ( {Property:9B2F38A8-198B-4125-9E73-5646F072C10E} &lt;&gt; "Несущий Элемент", "", IF ( {Property:53402BE5-29D9-44A5-B6D6-4FA90938DDC9} = "Снаружи", IF ( {Property:ПБ/Степень огнестойкости здания} = "I", "30", "15" ), IF ( {Property:ПБ/Степень огнестойкости здания} = "I", "120", IF ( {Property:ПБ/Степень огнестойкости здания} = "II", "90", IF ( {Property:ПБ/Степень огнестойкости здания} = "III", "45", IF ( {Property:ПБ/Степень огнестойкости здания} = "IV", "15", "!Степень огнестойкости задана неверно!" ) ) ) ) ) ) ) ) )</Expression>
+							<Expression>IFS ( {Property:Классификация/06 Лестница}, IF ( {Property:ПБ/Предел огнестойкости} &lt;&gt; " ", {Property:ПБ/Предел огнестойкости}, IF ( {Property:ПБ/Степень огнестойкости здания} = "V", "Не нормируется", IF ( OR ( {Property:ПБ/Степень огнестойкости здания} = "I", {Property:ПБ/Степень огнестойкости здания} = "II" ), "60", IF ( {Property:ПБ/Степень огнестойкости здания} = "III", "45", IF ( {Property:ПБ/Степень огнестойкости здания} = "IV", "15", "Степень огнестойкости задана неверно" ) ) ) ) ) )</Expression>
+							<Expression>IFS ( {Property:Классификация/02.11 Окно\/Фонарь}, IF ( {Property:ПБ/Делит ПБ Отсек} = TRUE, "60", IF ( {Property:ПБ/Предел огнестойкости} &lt;&gt; " ", {Property:ПБ/Предел огнестойкости}, " " ) ) )</Expression>
+							<Expression>IFS ( {Property:Классификация/02.12 Балконная дверь}, {Property:ПБ/Предел огнестойкости} )</Expression>
+							<Expression>IFS ( {Property:Классификация/02.00 Дверь\/Ворота\/Люк}, IF ( {Property:ПБ/Делит ПБ Отсек} = TRUE, "60", IF ( {Property:ПБ/Предел огнестойкости} &lt;&gt; " ", {Property:ПБ/Предел огнестойкости}, " " ) ) )</Expression>
+							<Expression>IFS ( {Property:Классификация/03 Навесная Стена}, IF ( {Property:ПБ/Делит ПБ Отсек} = TRUE, "150", IF ( {Property:ПБ/Предел огнестойкости} &lt;&gt; " ", {Property:ПБ/Предел огнестойкости}, " " ) ) )</Expression>
+							<Expression>{Property:ProjectInfoPropertyDefinitionGroup/00_!}</Expression>
+						</ExpressionDefaultValue>
+					</DefaultValue>
+					<ClassificationIDs>
+						<ClassificationID>
+							<ItemID>01.04</ItemID>
+							<SystemIDName>КЛАССИФИКАЦИЯ моя</SystemIDName>
+							<SystemIDVersion>23</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>01.03</ItemID>
+							<SystemIDName>КЛАССИФИКАЦИЯ моя</SystemIDName>
+							<SystemIDVersion>23</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>01.05</ItemID>
+							<SystemIDName>КЛАССИФИКАЦИЯ моя</SystemIDName>
+							<SystemIDVersion>23</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>06</ItemID>
+							<SystemIDName>КЛАССИФИКАЦИЯ моя</SystemIDName>
+							<SystemIDVersion>23</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>06.01</ItemID>
+							<SystemIDName>КЛАССИФИКАЦИЯ моя</SystemIDName>
+							<SystemIDVersion>23</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>06.02</ItemID>
+							<SystemIDName>КЛАССИФИКАЦИЯ моя</SystemIDName>
+							<SystemIDVersion>23</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>03</ItemID>
+							<SystemIDName>КЛАССИФИКАЦИЯ моя</SystemIDName>
+							<SystemIDVersion>23</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>03.02</ItemID>
+							<SystemIDName>КЛАССИФИКАЦИЯ моя</SystemIDName>
+							<SystemIDVersion>23</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>01.02</ItemID>
+							<SystemIDName>КЛАССИФИКАЦИЯ моя</SystemIDName>
+							<SystemIDVersion>23</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>04</ItemID>
+							<SystemIDName>КЛАССИФИКАЦИЯ моя</SystemIDName>
+							<SystemIDVersion>23</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>01.01</ItemID>
+							<SystemIDName>КЛАССИФИКАЦИЯ моя</SystemIDName>
+							<SystemIDVersion>23</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>02</ItemID>
+							<SystemIDName>КЛАССИФИКАЦИЯ моя</SystemIDName>
+							<SystemIDVersion>23</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>02.01</ItemID>
+							<SystemIDName>КЛАССИФИКАЦИЯ моя</SystemIDName>
+							<SystemIDVersion>23</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>02.11</ItemID>
+							<SystemIDName>КЛАССИФИКАЦИЯ моя</SystemIDName>
+							<SystemIDVersion>23</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>02.12</ItemID>
+							<SystemIDName>КЛАССИФИКАЦИЯ моя</SystemIDName>
+							<SystemIDVersion>23</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>07.02</ItemID>
+							<SystemIDName>КЛАССИФИКАЦИЯ моя</SystemIDName>
+							<SystemIDVersion>23</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>04.02</ItemID>
+							<SystemIDName>КЛАССИФИКАЦИЯ моя</SystemIDName>
+							<SystemIDVersion>23</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>07</ItemID>
+							<SystemIDName>КЛАССИФИКАЦИЯ моя</SystemIDName>
+							<SystemIDVersion>23</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>07.01</ItemID>
+							<SystemIDName>КЛАССИФИКАЦИЯ моя</SystemIDName>
+							<SystemIDVersion>23</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>02.00</ItemID>
+							<SystemIDName>КЛАССИФИКАЦИЯ моя</SystemIDName>
+							<SystemIDVersion>23</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>04.03</ItemID>
+							<SystemIDName>КЛАССИФИКАЦИЯ моя</SystemIDName>
+							<SystemIDVersion>23</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>02.03</ItemID>
+							<SystemIDName>КЛАССИФИКАЦИЯ моя</SystemIDName>
+							<SystemIDVersion>23</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>02.02</ItemID>
+							<SystemIDName>КЛАССИФИКАЦИЯ моя</SystemIDName>
+							<SystemIDVersion>23</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>04.04</ItemID>
+							<SystemIDName>КЛАССИФИКАЦИЯ моя</SystemIDName>
+							<SystemIDVersion>23</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>06.00</ItemID>
+							<SystemIDName>КЛАССИФИКАЦИЯ моя</SystemIDName>
+							<SystemIDVersion>23</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>02.10</ItemID>
+							<SystemIDName>КЛАССИФИКАЦИЯ моя</SystemIDName>
+							<SystemIDVersion>23</SystemIDVersion>
+						</ClassificationID>
+					</ClassificationIDs>
+				</PropertyDefinition>
+			</PropertyDefinitions>
+		</PropertyDefinitionGroup>
+	</PropertyDefinitionGroups>
+</BuildingInformation>
