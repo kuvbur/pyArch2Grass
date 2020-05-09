@@ -3,7 +3,13 @@ import re
 from sys import maxsize
 from pprint import pprint
 
-func_lis=[
+#Префиксы хэшей
+PREFEXP = "pe"
+PREFSTR = "ps"
+PREFPROP = "pp"
+#Список с регулярными выражениями и именами функций
+#Порядок следования важен!
+FUNCLIST=[
       ('[0-9a-z]*=[0-9a-zA-Z]*', 'EQ'),
       ('[0-9a-z]*<>[0-9a-zA-Z]*', 'NOTEQ'),
       ('OR\([0-9a-zA-Z,]+\)', 'OR'),
@@ -11,6 +17,39 @@ func_lis=[
       ('IF\([0-9a-zA-Z,]+\)', 'IF'),
       ('IFS\([0-9a-zA-Z,]+\)', 'IFS'),
       ]
+
+#Сколько аргументов у функции, тип данных на выходе
+ARGLIST={
+    'EQ':{
+        'in':['Equal', 'Equal'],
+        'in_qty' : 2,
+        'split' : '='
+        },
+    'NOTEQ':{
+        'in':['Equal', 'Equal'],
+        'in_qty' : 2,
+        'split' : '<>'
+        },
+    'OR':{
+        'in':['Equal'],
+        'in_qty' : 0,
+        'split' : ','
+        },    
+    'AND':{
+        'in':['Equal'],
+        'in_qty' : 0,
+        'split' : ','
+        },    
+    'IF':{
+        'in':['Boolean', 'Equal_end', 'Equal_end'],
+        'in_qty' : 3,
+        'split' : ','
+        },
+    'IFS':{
+        'in':['Boolean', 'Equal_end'],
+        'in_qty' : 2,
+        'split' : ','
+        }}
 
 def get_param(root):
     #Словарь 'e'+хэш : выражение
@@ -34,13 +73,13 @@ def get_param(root):
             param_expression = []
             if param_type == 'Expression':
                 for expr in param.xpath('DefaultValue/ExpressionDefaultValue/*'):
-                    hash_exp =  "pe"+str(hash(expr.text) % ((maxsize + 1) * 2))
+                    hash_exp =  PREFEXP + str(hash(expr.text) % ((maxsize + 1) * 2))
                     expression_dic[hash_exp] = expr.text
                     param_expression.append(hash_exp)
                     if '"' in expr.text:
                         string_list = re.findall('".*?"', expr.text)
                         for string in string_list:
-                            hash_string =  "ps"+str(hash(string) % ((maxsize + 1) * 2))
+                            hash_string =  PREFSTR + str(hash(string) % ((maxsize + 1) * 2))
                             expression_dic['String'][hash_string] = string
                     if '{Property' in expr.text:
                         property_list = re.findall('{.*?}', expr.text)
@@ -60,26 +99,48 @@ def get_param(root):
                                 param_dic['Системные'][p_param_name] = p_param_name
                             else:
                                 param_dic[p] = {'Group':p_group_name, 'Name':p_param_name}
-                            expression_dic['Property']["pp"+str(hash(p) % ((maxsize + 1) * 2))] = p
+                            expression_dic['Property'][PREFPROP + str(hash(p) % ((maxsize + 1) * 2))] = p
             full_name = group_name+"/"+param_name
-            expression_dic['Property']["pp"+str(hash(full_name) % ((maxsize + 1) * 2))] = full_name
+            expression_dic['Property'][PREFPROP + str(hash(full_name) % ((maxsize + 1) * 2))] = full_name
             param_dic[full_name] = {'Group':group_name, 'Name':param_name, 'Expression': param_expression, 'Type':param_type}
     return param_dic, expression_dic
 
+def get_endpoint(exp, type_function):
+    end_point = []
+    in_arg = []
+    in_type = ARGLIST[type_function]['in']
+    qty_arg = ARGLIST[type_function]['in_qty']
+    split_char = ARGLIST[type_function]['split']
+    #Переделать бы это на regexp, но потом
+    for clear_char in [type_function, '(', ')']:
+        exp = exp.replace(clear_char, '')
+    in_arg = exp.split(split_char)
+    if qty_arg>0:
+        assert(len(in_arg) == qty_arg)
+    for i, arg in enumerate(in_arg):
+        if qty_arg>0 and in_type[i].endswith('_end') and (arg.startswith(PREFSTR) or arg.startswith(PREFPROP)):
+            end_point.append(arg)
+    return end_point, in_arg
+
 def replace_pattern(expression, func_to_replace, type_function):
     operations_dict = {}
+    end_point = []
     has_func = True
     while has_func:
         exp_list = re.findall(func_to_replace, expression)
         has_func = len(exp_list)>0
         for exp in exp_list:
             hash_ =  type_function+str(hash(exp) % ((maxsize + 1) * 2))
-            operations_dict[hash_] = {'Exp':exp, 'Type': type_function}
+            #Смотрим - что за функция на попалась и делим её на аргументы
+            end_point_, in_arg = get_endpoint(exp, type_function)
+            operations_dict[hash_] = {'In':in_arg, 'Type': type_function}
+            end_point = end_point + end_point_
             expression = expression.replace(exp, hash_)
-    return expression, operations_dict
+    return expression, operations_dict, end_point
 
 def parse_expression(expression, expression_dic):
     operations_dict = {}
+    end_point = []
     #Сохраним для истории певозданную формулу
     operations_dict['Clear'] = expression
     #Заменяем все строки, чтоб кавычки не мешали
@@ -91,12 +152,14 @@ def parse_expression(expression, expression_dic):
     #Чистим пробелы, они нам уже не нужны
     expression = expression.replace(" ", "")
     #Последовательно сворачиваем выражение в словарь
-    for func in func_lis:
+    for func in FUNCLIST:
         func_to_replace, type_function = func
-        expression, operations_dict_func = replace_pattern(expression, func_to_replace, type_function)
+        expression, operations_dict_func, end_point_ = replace_pattern(expression, func_to_replace, type_function)
+        end_point = end_point + end_point_
         operations_dict.update(operations_dict_func)
     #Конец клубка
     operations_dict['Start'] = expression
+    operations_dict['End'] = end_point
     return operations_dict
 
 def read_property(fname):
@@ -113,8 +176,13 @@ def read_property(fname):
     return param_dic, operations_dict
 
 if __name__ == "__main__":
-    fname = 'test.xml'
+    fname = 'test_file/test.xml'
     param_dic_1, operations_dict_1 = read_property(fname)
     
-    fname = 'test2.xml'
-    param_dic_2, operations_dict_2 = read_property(fname)   
+    # fname = 'test_file/test2.xml'
+    # param_dic_2, operations_dict_2 = read_property(fname)   
+    
+
+        
+
+    
